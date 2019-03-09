@@ -34,7 +34,7 @@ Build and run the project using Android Studio. Please update endpoint URLs to y
 This folder contains labeled images for training your excavator to aim for black and yellow cups and avoid killing plants. We used CustomVision (https://www.customvision.ai/) for training our Excavator, but you don't have to. Make sure to train it though. We like plants.
 
 #### electronics
-Projects containing .ino files are updloaded using Arduino tools. DiggerSoft is installed on the RaspberryPis using command line tools.
+Projects containing .ino files are updloaded using Arduino tools. DiggerSoft is installed on the RaspberryPis using command line tools. All applications contain (redacted) usernames, passwords and endpoints that need to be updated to your use
 
 ## Project practices
 ### Code style
